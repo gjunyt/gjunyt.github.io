@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 자기소개서
+subtitle: 2016108282 컴퓨터공학과 4학년
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+안녕하세요. 제 이름은 전영탁입니다.
+2016년에 제주대학교의 컴퓨터공학과에 진학하여 계속 공부해오고 있습니다.
+현재 배운 언어는 다음과 같습니다.
+- C, C++, C#, JAVA, JAVAScript, PHP, HTML, Python
+또한 현재 정보처리 산업기사 자격증을 갖고있고, 데이터베이스와 웹프로그래밍에 관심을 갖고 공부하고 있습니다.
+제주대학교 공동으로 쳤던 TOPCIT시험에서 3등급이 나왔고, 토익 점수는 755점입니다.
+또한 Unity엔진을 사용하여 간단한 게임을 만들어본 경험이 있습니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
